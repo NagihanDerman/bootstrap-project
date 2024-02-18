@@ -6,4 +6,5 @@
 
 
 # GIF 
+<img src="paylastikca.gif">
 
